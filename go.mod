@@ -1,4 +1,4 @@
-module 12-sprint-mod
+module github.com/MirekKrassilnikov/12-sprint-final
 
 go 1.21.1
 
